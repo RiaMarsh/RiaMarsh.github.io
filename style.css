@@ -1,0 +1,33 @@
+body {
+  background-color: skyblue;
+  font-family: 'Lobster', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    position: absolute;
+    top: right;
+  }
+
+.title {
+  background-color: yellow;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  border-radius: 30px;
+  border: 5px solid black;
+}
+img {
+   border: 5px solid black;
+   border-radius: 500px;
+ }
+
+h3 {
+  font-size: 50px;
+}
+.logo {
+  transform: rotate(-90deg);
+  transform-origin: top left;
+  top: 313px;
+  position: absolute;
+}
